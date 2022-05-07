@@ -50,9 +50,9 @@ public class FreeTextParser {
 		}
 		
 		//use second argument as csv output file name, when argument is not set, use defaut
-		if(args.length > 1) {
+		if(args.length > 2) {
 			
-			csvOutFile = args[1];
+			csvOutFile = args[2];
 			
 		}
 		
