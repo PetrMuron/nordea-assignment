@@ -1,0 +1,1 @@
+javaw -Xmx32m -classpath bin com.muronpetr.parser.FreeTextParser in/large.in out/large.xml out/large.csv
